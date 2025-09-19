@@ -1,4 +1,4 @@
-INN Hotels Group: Booking Cancellation Prediction
+#INN Hotels Group: Booking Cancellation Prediction
 Project Overview
 This project provides a data-driven solution for the INN Hotels Group to address the high number of booking cancellations. The primary objective is to build a predictive machine learning model that can identify which bookings are likely to be canceled. By accurately predicting cancellations, the hotel can take proactive measures to minimize revenue loss and optimize resource management.
 
